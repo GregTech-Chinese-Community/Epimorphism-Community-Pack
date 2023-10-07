@@ -1,0 +1,13 @@
+name = "PatPatPat [Forge]"
+filename = "PatPatPat-Forge-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e0f35091b9da906cb37f9a4d550e2ed718f676b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4684634
+project-id = 899353

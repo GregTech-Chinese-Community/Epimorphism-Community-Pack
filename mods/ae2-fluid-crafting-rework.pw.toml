@@ -1,0 +1,13 @@
+name = "AE2 Fluid Crafting Rework"
+filename = "Fluid Craft for AE2-2.4.31-r.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf43a4130d4b57221e084c22f174d9ab752d25d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4733637
+project-id = 623955
