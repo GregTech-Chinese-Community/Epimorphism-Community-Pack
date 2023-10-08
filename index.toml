@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
+hash = "568a95b6aee550c9452a878f70a7016cc5154e432361f7ce171c1ff2e1879a7b"
+
+[[files]]
+file = "config/gregtech.cfg"
+hash = "eb4f461aee376914e9842fb4d4fb0ecc145ccfabdc0d403c7fba57ee555cb4df"
+
+[[files]]
+file = "config/gregtechfoodoption.cfg"
+hash = "91059dd9ef076db8d6d2f2ceb28550df62854c5b618f08d92caa1802ca4ee116"
+
+[[files]]
+file = "config/tconevo.cfg"
+hash = "a17361170ee612f6b5b6a16e73c1b9e72efee53c858e01f7b93d1391ac729926"
+
+[[files]]
+file = "fontfiles/Exo-Medium.ttf"
+hash = "b4c492f06c86346abc454994745598fa37a972254fdfe2de421f4710a76039c1"
+
+[[files]]
+file = "fontfiles/MiSans-Medium.ttf"
+hash = "93528275ee67039c1daeb2ef700625bcf72abab2d3f97e1b6afae6273b579fc1"
+
+[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
 metafile = true
@@ -577,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "30baf3b03af0c64606bd16fdbeda89666d8f4d925fbf4dc0bef21db36cc417f4"
+hash = "3d06c23fc5c293cc191574ddb01727c6a852cd100b4a69267b1f98c6a877be62"
 metafile = true
 
 [[files]]
