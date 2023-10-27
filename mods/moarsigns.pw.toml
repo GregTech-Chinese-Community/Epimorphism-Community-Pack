@@ -1,0 +1,13 @@
+name = "MoarSigns"
+filename = "MoarSigns-1.12.2-6.0.0.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b79040a2a08a8a958d0708178639063825c83ec8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2649212
+project-id = 79243

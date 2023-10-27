@@ -1,0 +1,13 @@
+name = "Subaquatic"
+filename = "Subaquatic-v1.1.0-mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d09094d3cbb7425b024ef703e530e86bef8e0e9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4553639
+project-id = 715082

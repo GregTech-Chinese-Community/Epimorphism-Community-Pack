@@ -1,0 +1,13 @@
+name = "PSICaster"
+filename = "psicaster-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bcd5486a59f3d0deb128e3a1fd657d62aa57832"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3204251
+project-id = 435119

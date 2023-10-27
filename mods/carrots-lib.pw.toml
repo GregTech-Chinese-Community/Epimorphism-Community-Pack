@@ -1,0 +1,13 @@
+name = "Carrots Library [FORGE]"
+filename = "carrotslib-mc1.12.2-1.0.0b1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0fb74fdf5ea7f4830523255d6ce742e8007b0c12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2660247
+project-id = 311327

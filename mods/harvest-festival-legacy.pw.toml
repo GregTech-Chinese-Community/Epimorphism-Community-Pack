@@ -1,0 +1,13 @@
+name = "Harvest Festival Legacy"
+filename = "Harvest-Festival-Legacy-1.12.2-0.6.27.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6cbfcc488d6fa09f3a39eba84899d46390f31b56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4704939
+project-id = 342649

@@ -1,0 +1,13 @@
+name = "netherbrickslabonwarpednylium"
+filename = "The Betweenlands-1.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "185806608"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3041117
+project-id = 403967
