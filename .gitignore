@@ -1,6 +1,7 @@
 *.DS_Store
 *.mrpack
-*.zip
+Epimorphism-1.0.1.zip
+
 /.vscode/*
 *.pxd
 /.idea/*

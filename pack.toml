@@ -1,12 +1,12 @@
 name = "Epimorphism"
 author = "GT CN Community"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "032771b1b39a51d3a5b2fe185ed6c86f10a35f1e8a93d99a2904b748aee78990"
+hash = "308f491ab7277e18a6e5ad8cebc9d2274209b2e8b76d49d29a65aadb48349181"
 
 [versions]
 forge = "14.23.5.2859"

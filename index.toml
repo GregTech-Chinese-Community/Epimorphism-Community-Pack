@@ -810,6 +810,16 @@ hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
 
 [[files]]
+file = "mods/the-aether.pw.toml"
+hash = "33afa756f9e85635466462112738e38d28e2ae35a7bec369f30ed75535092ebf"
+metafile = true
+
+[[files]]
+file = "mods/the-betweenlands.pw.toml"
+hash = "76b308aa946aa61f6f027f1d423176eb6bb7733ac4d6b3f69b2389e970bc902a"
+metafile = true
+
+[[files]]
 file = "mods/the-one-probe.pw.toml"
 hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
 metafile = true
@@ -910,11 +920,17 @@ hash = "b9775ae2061b7cac36493871c05a5bd761e1afbd541fc3a995193f44be632f6a"
 metafile = true
 
 [[files]]
-file = "the-aether.pw.toml"
-hash = "33afa756f9e85635466462112738e38d28e2ae35a7bec369f30ed75535092ebf"
-metafile = true
+file = "resourcepacks/GTCEU.Jappa.zip"
+hash = "ba033e7c239b0dc73f9d85fc4549ea3e638dfe6a1fc3e430955602e800544b56"
 
 [[files]]
-file = "the-betweenlands.pw.toml"
-hash = "76b308aa946aa61f6f027f1d423176eb6bb7733ac4d6b3f69b2389e970bc902a"
-metafile = true
+file = "resourcepacks/Modernity-format3-v3.9.1.zip"
+hash = "f68b8840030f6abb323e2713815f86e95925ae73ad56a317b4e5970c10dc9084"
+
+[[files]]
+file = "resourcepacks/ModernityExtra-format3-v1.3.1.zip"
+hash = "5c23abb226b8e0e0a0e1b7596901e70961e94b2d4d450e5f6d6dd56040956ba3"
+
+[[files]]
+file = "resourcepacks/Zedtech-2.5.6.zip"
+hash = "8652f7d7f6d60f93bfdaf004e578359a693ab43cd0f8b3fbec03110169ec810d"
